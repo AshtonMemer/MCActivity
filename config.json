@@ -1,0 +1,6 @@
+{
+  "bot_token": "",
+  "server_ip": "hypixel.net",
+  "server_port": "25565",
+  "activity_format": "{online}/{max} players."
+}

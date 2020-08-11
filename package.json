@@ -1,0 +1,15 @@
+{
+  "name": "mcactivity",
+  "version": "1.0.0",
+  "description": "MCActivity is a Discord bot that updates its activity based on your player count.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AshtonMemer",
+  "license": "MIT"
+}
