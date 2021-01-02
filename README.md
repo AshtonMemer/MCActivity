@@ -9,7 +9,7 @@ MCActivity is a Discord bot that updates its activity based on your player count
 1. Download the bot files from the [releases](https://github.com/AshtonMemer/MCActivity/releases) tab.
 2. Create a bot application from the [Discord Developer Portal](https://discord.com/developers/applications).
 3. Edit the `config.json` to include your bot's token as well as your server's IP and port.
-4. Start bot. Your bot will now be active. Be sure to invite it to your server.
+4. Run `npm install` in the bot directory.
+5. Start bot. Your bot will now be active. Be sure to invite it to your server.
 # Starting Bot
-**WINDOWS:** Run the `start-bot.bat` file. \
-**LINUX:** Execute `node bot.js` in the bot directory. Make sure the `discord.js` node package is installed.
+1. Run `npm start` to start the bot.
