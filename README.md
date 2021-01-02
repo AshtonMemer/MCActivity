@@ -12,4 +12,4 @@ MCActivity is a Discord bot that updates its activity based on your player count
 4. Run `npm install` in the bot directory.
 5. Start bot. Your bot will now be active. Be sure to invite it to your server.
 # Starting Bot
-1. Run `npm start` to start the bot.
+Run `npm start` to start the bot.
